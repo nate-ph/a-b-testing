@@ -1,2 +1,2 @@
 # a-b-testing
-Portfolio of t-tests on Facebook adds with a report write-up
+Portfolio of t-tests on Facebook ads with a report write-up
